@@ -1,4 +1,4 @@
-### Author : Porinita Hoque
+### Porinita Hoque
 
 - Department of Electrical and Computer Engineering
 - North South University, Dhaka, Bangladesh
